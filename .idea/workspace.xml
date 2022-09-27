@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58ded030-018f-4bf5-83be-80cf445b5bfb" name="Changes" comment="$ git config --global user.name &quot;Lam3rok&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/GitLink.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +45,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RunManager">
@@ -80,7 +79,7 @@
       <workItem from="1660317632451" duration="4121000" />
       <workItem from="1660406163063" duration="182000" />
       <workItem from="1664267320940" duration="3715000" />
-      <workItem from="1664278364160" duration="1034000" />
+      <workItem from="1664278364160" duration="5065000" />
     </task>
     <task id="LOCAL-00001" summary="$ git config --global user.name &quot;Lam3r-ok&quot;">
       <created>1660318174436</created>
@@ -117,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664278410280</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="$ git config --global user.name &quot;Lam3rok&quot;">
+      <created>1664279505565</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664279505566</updated>
+    </task>
+    <task id="LOCAL-00007" summary="$ git config --global user.name &quot;Lam3rok&quot;">
+      <created>1664289561853</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664289561853</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
